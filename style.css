@@ -1,0 +1,74 @@
+html {background:#3f3f3d; color:white;}
+body {
+  font-size:15px;
+}
+
+p{
+  font-size:23px;
+}
+
+.name {
+    font-size: 60px; 
+    color: #E7A4A4;
+    text-align:center;
+    margin:20px;
+}
+
+.table {
+    font-size: 30px; 
+    color: #E7A4A4;
+    text-align:center;
+    width:550px;
+    margin: 0 auto;
+    border-spacing: 0px;
+}
+
+.tableel {
+    height:45px;
+    box-shadow: 0 0 5px #d27c7b;
+    border:1px;
+    border-color:#D27C7B;
+    padding: 0px;
+}
+
+.middle {
+    background-color:#F7D2D1;
+}
+
+.butt {
+  	width:40px;
+  	height:40px;
+  	color:red;
+  	background: transparent url('cat.png') 0% 0% no-repeat padding-box;
+    background-size:64px 64px;
+}
+
+
+.buttonmus {
+    width:64px;
+    height:64px;
+    background: transparent url('mus.png') 0% 0% no-repeat padding-box;
+    background-size:64px 64px;
+    background-position:center center;
+    border:0px;
+  }
+
+
+.forma {
+    align:center;
+    margin:30px;
+    font-size: 20px; 
+    color: #E7A4A4;
+    text-align:center;
+  }
+
+.form-group {
+    font-size: 20px; 
+    color: #E7A4A4;
+} 
+
+  .cat {
+    padding:30px;
+    float:right;
+   	margin:0px;
+  }
